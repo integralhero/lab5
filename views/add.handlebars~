@@ -21,7 +21,6 @@
 <body>
 	<div class="container">
 		<h2>New Friend Added!</h2>
-		<a href="/">Go Home!</a>
 		<h1>My HCI Friends</h1>
 		{{#each data.friends}}
 		<div class="friend"> 
